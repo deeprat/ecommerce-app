@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "ecommerce.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'ecommerce.app.jwtSecret'"
+  },
+  {
+    "name": "ecommerce.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'ecommerce.app.jwtExpirationMs'"
+  }
+]}
